@@ -125,3 +125,4 @@ This platform is designed to help students access previous year questions easily
 ---
 
 **Made with ❤️ for students** - Your gateway to academic success!
+# PYQ
